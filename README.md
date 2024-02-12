@@ -4,6 +4,9 @@
 <p>
   My name is Felix, and I’m fifteen years old. I enjoy playing sports such as football, basketball, squash, and swimming, and just recently (last year) qualified as a surf lifesaver at Omaha beach and started going on patrols over the summer and before. I enjoy reading books, watching movies, and playing video games. My goals for the future are to improve upon myself in all aspects, I want to stay consistent and get good grades in school, I want to get better at playing the guitar and the sports I play, and I also want to improve on myself physically.
 
+  <br>
+  <br>
+  Some of my previous work
 </p>
 <!--
 **FelixWSC/FelixWSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
